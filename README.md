@@ -4,8 +4,8 @@ ZombieShooting
 unityで作ったゾンビ系のシューティングゲームです。
 Mecaniumに慣れるために作ってみました。
 
-<img src="http://simplecode.jp/lolipop/github/ZombieShooting1.png" width="30%" height="30%">　
-<img src="http://simplecode.jp/lolipop/github/ZombieShooting2.png" width="30%" height="30%">　
+<img src="http://simplecode.jp/lolipop/github/ZombieShooting1.png" width="70%" height="70%">　
+<img src="http://simplecode.jp/lolipop/github/ZombieShooting2.png" width="70%" height="70%">　
 ------------------------------
 使用アセット一覧
 ------------------------------
